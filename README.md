@@ -1,6 +1,5 @@
 # classify
-
-Repositório para estudos de análise e classificação de dados
+Repository dedicated for studies about analytics and data science.
 
 ## Getting Started
 
@@ -18,7 +17,7 @@ $ python get_pip.py
 pip install scikit-learn
 ```
 
-necessária a permissão de administrador
+Maybe you can need as admin.
 
 ## Deployment
 
@@ -26,9 +25,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Python 3](https://www.python.org) - The web framework used
-* [Scikit-learn - Powered by Google.](scikit-learn.org) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python 3](https://www.python.org) - The high-level programming language
+* [Scikit-learn - Powered by Google.](https://scikit-learn.org) - Package of data science. Powered by [Google](https://google.com)
 
 ## License
 
